@@ -19,3 +19,6 @@ rides during off-peak hours (at night and early morning) and more during the day
 Manhattan and Brooklyn than Queens.
 
 Please refer to the web-application at 'https://philyilun.shinyapps.io/CAB-SHINY/'
+
+For other R-Shiny Visulization, please check - US census Visulization https://philyilun.shinyapps.io/census-app/
+
